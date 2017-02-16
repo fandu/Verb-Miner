@@ -1,5 +1,9 @@
 # VerbMiner
-Want to learn how good writers use verbs? This tool can help you summarize verbs from PDFs.
+
+[![License](http://img.shields.io/:license-mit-blue.svg)](http://doge.mit-license.org)
+
+**Want to learn how good writers use verbs? This tool can help you summarize verbs from PDF.**
+The input could be either a PDF or a txt file (e.g., academic papers, textbooks, magazines). For now, the output is simply a csv file summarizing all the verbs found in the input. The next step would be to visualize the verbs and to identify the novel ones.
 
 ### Example input
 ![Example input](http://i.imgur.com/1zptycB.png)
