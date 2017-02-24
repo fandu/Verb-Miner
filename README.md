@@ -10,7 +10,7 @@ The input could be either a PDF or a txt file (e.g., academic papers, textbooks,
 ![Example output](http://i.imgur.com/2s0dKDq.png)
 
 ### Usage
-`python src/verbminer.py [path_to_input]`
+`python src/verbminer.py <path_to_input>`
 
 ### Dependencies
 * [nltk](http://www.nltk.org/)
